@@ -1,1 +1,2 @@
 hello world changed again with no global username
+with verified commits
