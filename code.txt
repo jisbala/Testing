@@ -1,2 +1,2 @@
 hello world changed again with no global username
-with verified commits
+with verified commits with signing key added
